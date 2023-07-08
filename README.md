@@ -53,10 +53,10 @@ My name is **Amos Karugo ** and I'm a passionate  **Backend-end Developer**!
   </tr>
   <tr>
   <td>
-  <img src='images/icons8-javascript-96.svg' title='Javascript' alt='Javascript' width='40'>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd6e" />&nbsp;&nbsp;
   </td>
   <td>
-  Javascript
+  Python
   </td>
   </tr>
   <tr>
