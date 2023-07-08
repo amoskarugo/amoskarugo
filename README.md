@@ -23,18 +23,9 @@ My name is **Amos Karugo ** and I'm a passionate  **Backend-end Developer**!
 
 <br />
 
-⚒ **The main stack of technologies I use:**
-
-<div>
-    <img src='images/icons8-typescript-96.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
-    <img src='images/icons8-html-5-96.svg' title='Html5' alt='Html5' width='40'>&nbsp;&nbsp;
-    <img src='images/icons8-css3-96.svg' title='CSS3' alt='CSS3' width='40'>&nbsp;&nbsp;
-    <img src='images/icons8-figma-96.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
-    <img src='images/icons8-python-96.svg' title='Python' alt='Python' width='40'>&nbsp;&nbsp;
-</div>
 <br />
 
-🛠 **and more:**
+🛠 **My Technology Stack**
   | Languages | Frontend | Backend | Databases | Version Control |
   |-----------|----------|---------|-----------|-----------------|
   |<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />||<img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/git-F44336?style=for-the-badge&logo=git&logoColor=white" />|
@@ -54,10 +45,10 @@ My name is **Amos Karugo ** and I'm a passionate  **Backend-end Developer**!
     </tr>
     <tr>
   <td>
-  <img src='images/icons8-flutter-96.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=Purple" />&nbsp;&nbsp;
   </td>
   <td>
-  Flutter
+  Django
   </td>
   </tr>
   <tr>
