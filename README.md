@@ -41,7 +41,7 @@ My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
   | <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd6e" /> | <img src="https://img.shields.io/badge/angular-1e65bc?style=for-the-badge&logo=angular&logoColor=dd0031" /> | <img src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=Purple"/>|<img src="https://img.shields.io/badge/postgresql%20-32658f.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>| <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />|  
 <br />
 
-🔬 **At the moment I'm interested in:**
+🔬 **Currently active in:**
 <div>
 <table>
     <tr>
@@ -78,14 +78,6 @@ My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
   </tr>
   <tr>
   <td>
-  <img src='images/icons8-angularjs-96.svg' title='Angular Js' alt='Angular Js' width='40'>&nbsp;&nbsp;
-  </td>
-  <td>
- Angular Js
-  </td>
-  </tr>
-  <tr>
-  <td>
   <img src='images/storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
   </td>
   <td>
@@ -100,4 +92,4 @@ My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
 
 ## 🔎 How to reach me:
 
- <p>Email me: <a href='mailto:karugoamos@gmail.com'>kimutaij192@gmail.com</a> 
+ <p>Email me: <a href='mailto:karugoamos@gmail.com'>karugoamos@gmail.com</a> 
