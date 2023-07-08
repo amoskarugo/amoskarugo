@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
 
-My name is **Jaffer Kimutai aka kimcipher** and I'm a _~~Passionate!~~_ 😉 **Front end Developer that is UI & UX Designer **!
+My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
 
 <br />
 
@@ -100,4 +100,4 @@ My name is **Jaffer Kimutai aka kimcipher** and I'm a _~~Passionate!~~_ 😉 **F
 
 ## 🔎 How to reach me:
 
- <p>Email me: <a href='mailto:kimutaij192@gmail.com'>kimutaij192@gmail.com</a> 
+ <p>Email me: <a href='mailto:karugoamos@gmail.com'>kimutaij192@gmail.com</a> 
