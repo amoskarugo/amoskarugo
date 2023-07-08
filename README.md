@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
 
-My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
+My name is **Amos Karugo ** and I'm a passionate  **Backend-end Developer**!
 
 <br />
 
@@ -37,8 +37,8 @@ My name is **Amos Karugo ** and I'm a passionate 😉 **Backend-end Developer**!
 🛠 **and more:**
   | Languages | Frontend | Backend | Databases | Version Control |
   |-----------|----------|---------|-----------|-----------------|
-  |<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />|<img src="https://img.shields.io/badge/flask-E3E3E3?style=for-the-badge&logo=flask&logoColor=gray" />|<img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/git-F44336?style=for-the-badge&logo=git&logoColor=white" />|
-  | <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd6e" /> | <img src="https://img.shields.io/badge/angular-1e65bc?style=for-the-badge&logo=angular&logoColor=dd0031" /> | <img src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=Purple"/>|<img src="https://img.shields.io/badge/postgresql%20-32658f.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>| <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />|  
+  |<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />||<img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/git-F44336?style=for-the-badge&logo=git&logoColor=white" />|
+  | <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd6e" /> |  | <img src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=Purple"/>|<img src="https://img.shields.io/badge/postgresql%20-32658f.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>| <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />|  
 <br />
 
 🔬 **Currently active in:**
